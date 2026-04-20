@@ -1,2 +1,2 @@
-*002.zip filter=lfs diff=lfs merge=lfs -text
+imamsarr/*.zip filter=lfs diff=lfs merge=lfs -text
 imamsarr/002.zip filter=lfs diff=lfs merge=lfs -text
